@@ -30,3 +30,6 @@ AI-powered workspace monitoring and productivity assistant.
 - Web deployment
 - Session history analytics
 - Multi-user profiles
+
+ ## Author
+ Manasvi Srivastava
