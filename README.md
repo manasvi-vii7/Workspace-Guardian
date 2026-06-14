@@ -1,60 +1,32 @@
-\# Workspace Guardian
-
-
+# 🛡️ Workspace Guardian
 
 AI-powered workspace monitoring and productivity assistant.
 
+---
 
+## Features
 
-Features
+- Real-time object detection using YOLOv8
+- Focus score analysis
+- Distraction risk prediction
+- Guardian verdict system
+- Smart alerts
+- Interactive Streamlit dashboard
 
+---
 
+## Tech Stack
 
-\- Real-time object detection using YOLOv8
+- Python
+- YOLOv8
+- OpenCV
+- Streamlit
+- Pandas
 
-\- Focus score analysis
+---
 
-\- Distraction risk prediction
+## Future Improvements
 
-\- Guardian verdict system
-
-\- Smart alerts
-
-\- Interactive Streamlit dashboard
-
-
-
-Tech Stack
-
-
-
-\- Python
-
-\- YOLOv8
-
-\- OpenCV
-
-\- Streamlit
-
-\- Pandas
-
-
-
-Future Improvements
-
-
-
-\- Web deployment
-
-\- Session history analytics
-
-\- Multi-user profiles
-
-
-
-\##Author
-
-
-
-Manasvi Srivastava
-
+- Web deployment
+- Session history analytics
+- Multi-user profiles
